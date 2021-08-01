@@ -1,6 +1,6 @@
-#Catering App
+# Catering App
 
-#About
-nama : Anak Agung Sandatya Widhiyanti
-kelas : A
-Motivasi : ingin memperdalam ilmu backend   
+# About
+1. nama : Anak Agung Sandatya Widhiyanti
+2. kelas : A
+3. Motivasi : ingin memperdalam ilmu backend   
